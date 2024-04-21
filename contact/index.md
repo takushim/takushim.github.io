@@ -14,20 +14,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="tmiyoshi26@siumed.edu"
+  link="tmiyoshi26@siumed.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(618) 453-2931"
+  link="+1-618-453-2931"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/G2LpiBGfXgFx3aFp8"
 %}
 
 {% include section.html %}

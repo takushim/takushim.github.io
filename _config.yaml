@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Welcome to Miyoshi Lab
-subtitle: Subtitle
-description: Description
+title: The Miyoshi Lab / Southern Illinois University School of Medicine
+#subtitle: Subtitle
+description: Analyze the behavior of single protein molecules in the inner ear
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
