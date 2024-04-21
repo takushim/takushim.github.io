@@ -2,7 +2,7 @@
 title: Publications
 nav:
   order: 2
-  tooltip: Research articles and reviews
+  tooltip: Articles and reviews
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
