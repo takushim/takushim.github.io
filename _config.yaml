@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: takushimDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
-description: 
+title: Welcome to Miyoshi Lab
+subtitle: Subtitle
+description: Description
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@takushimDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: takushimDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: takushimDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: takushimDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: tmiyoshi26@siumed.edu
+  orcid: 0000-0001-5236-0807
+  google-scholar: 1jZ6q-AAAAAJ
+  github: takushim
+  twitter: takushi_miyoshi
+#  youtube: takushimDESCRIPTION=An engaging 1-3 sentence description of your lab.
 
 ### jekyll settings
 
