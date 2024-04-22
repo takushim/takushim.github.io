@@ -1,5 +1,5 @@
 
-# takushimDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Repository for the Miyoshi Lab Website
 
 Visit **[takushim.github.io](https://takushim.github.io)** 🚀
 
