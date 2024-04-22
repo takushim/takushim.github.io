@@ -1,174 +1,380 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.3389/fphys.2024.1374901
+  title: Pathophysiology of human hearing loss associated with variants in myosins
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Takushi Miyoshi
+  - Inna A. Belyantseva
+  - Mrudhula Sajeevadathan
+  - Thomas B. Friedman
+  publisher: Frontiers in Physiology
+  date: '2024-03-18'
+  link: https://doi.org/gtrp57
+  orcid: 0000-0001-5236-0807
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1007/s00439-021-02304-0
+  title: Human deafness-associated variants alter the dynamics of key molecules in
+    hair cell stereocilia F-actin cores
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Takushi Miyoshi
+  - Inna A. Belyantseva
+  - Shin-ichiro Kitajiri
+  - Hiroki Miyajima
+  - Shin-ya Nishio
+  - Shin-ichi Usami
+  - Bong Jik Kim
+  - Byung Yoon Choi
+  - Koichi Omori
+  - Hari Shroff
+  - Thomas B. Friedman
+  publisher: Human Genetics
+  date: '2021-07-07'
+  link: https://doi.org/gtrp58
+  orcid: 0000-0001-5236-0807
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1111/cge.14115
+  title: "Late\u2010onset hearing loss case associated with a heterozygous truncating\
+    \ variant of <scp><i>DIAPH1</i></scp>"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Bong Jik Kim
+  - Takushi Miyoshi
+  - Taimur Chaudhry
+  - Thomas B. Friedman
+  - Byung Yoon Choi
+  - Takehiko Ueyama
+  publisher: Clinical Genetics
+  date: '2022-02-02'
+  link: https://doi.org/gtrp59
+  orcid: 0000-0001-5236-0807
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1016/j.xpro.2021.100967
+  title: Fast-dissociating but highly specific antibodies are novel tools in biology,
+    especially useful for multiplex super-resolution microscopy
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Takushi Miyoshi
+  - Thomas B. Friedman
+  - Naoki Watanabe
+  publisher: STAR Protocols
+  date: '2021-12-01'
+  link: https://doi.org/gtrp6b
+  orcid: 0000-0001-5236-0807
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.celrep.2021.108708
+  title: Semi-automated single-molecule microscopy screening of fast-dissociating
+    specific antibodies directly from hybridoma cultures
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Takushi Miyoshi
+  - Qianli Zhang
+  - Takafumi Miyake
+  - Shin Watanabe
+  - Hiroe Ohnishi
+  - Jiji Chen
+  - Harshad D. Vishwasrao
+  - Oisorjo Chakraborty
+  - Inna A. Belyantseva
+  - Benjamin J. Perrin
+  - Hari Shroff
+  - Thomas B. Friedman
+  - Koichi Omori
+  - Naoki Watanabe
+  publisher: Cell Reports
+  date: '2021-02-01'
+  link: https://doi.org/gpk5zs
+  orcid: 0000-0001-5236-0807
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1136/jmedgenet-2019-106282
+  title: Differential disruption of autoinhibition and defect in assembly of cytoskeleton
+    during cell division decide the fate of human<i>DIAPH1</i>-related cytoskeletopathy
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vince P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Bong Jik Kim
+  - Takehiko Ueyama
+  - Takushi Miyoshi
+  - Seungmin Lee
+  - Jin Hee Han
+  - Hye-Rim Park
+  - Ah Reum Kim
+  - Jayoung Oh
+  - Min Young Kim
+  - Yong Seok Kang
+  - Doo Yi Oh
+  - Jiwon Yun
+  - Sang Mee Hwang
+  - Nayoung K D Kim
+  - Woong-Yang Park
+  - Shin-ichiro Kitajiri
+  - Byung Yoon Choi
+  publisher: Journal of Medical Genetics
+  date: '2019-08-31'
+  link: https://doi.org/gtrp6c
+  orcid: 0000-0001-5236-0807
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1093/hmg/ddy445
+  title: The phenotypic landscape of a Tbc1d24 mutant mouse includes convulsive seizures
+    resembling human early infantile epileptic encephalopathy
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Risa Tona
+  - Wenqian Chen
+  - Yoko Nakano
+  - Laura D Reyes
+  - Ronald S Petralia
+  - Ya-Xian Wang
+  - Matthew F Starost
+  - Talah T Wafa
+  - Robert J Morell
+  - Kevin D Cravedi
+  - Johann du Hoffmann
+  - Takushi Miyoshi
+  - Jeeva P Munasinghe
+  - Tracy S Fitzgerald
+  - Yogita Chudasama
+  - Koichi Omori
+  - Carlo Pierpaoli
+  - Botond Banfi
+  - Lijin Dong
+  - Inna A Belyantseva
+  - Thomas B Friedman
+  publisher: Human Molecular Genetics
+  date: '2019-01-02'
+  link: https://doi.org/ghnxpq
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10162-016-0607-3
+  title: Quantitative Analysis of Aquaporin Expression Levels during the Development
+    and Maturation of the Inner Ear
+  authors:
+  - Takushi Miyoshi
+  - Taro Yamaguchi
+  - Kiyokazu Ogita
+  - Yasuko Tanaka
+  - Ken-ichi Ishibashi
+  - Hiroaki Ito
+  - Taisuke Kobayashi
+  - Takayuki Nakagawa
+  - Juichi Ito
+  - Koichi Omori
+  - Norio Yamamoto
+  publisher: Journal of the Association for Research in Otolaryngology
+  date: '2016-12-21'
+  link: https://doi.org/f94qkc
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15252/emmm.201606609
+  title: "Constitutive activation of\n            <scp>DIA</scp>\n            1 (\n\
+    \            <scp>DIAPH</scp>\n            1) via C\u2010terminal truncation causes\
+    \ human sensorineural hearing loss"
+  authors:
+  - Takehiko Ueyama
+  - Yuzuru Ninoyu
+  - "Shin\u2010ya Nishio"
+  - Takushi Miyoshi
+  - Hiroko Torii
+  - Koji Nishimura
+  - Kazuma Sugahara
+  - Hideaki Sakata
+  - Dean Thumkeo
+  - Hirofumi Sakaguchi
+  - Naoki Watanabe
+  - "Shin\u2010ichi Usami"
+  - Naoaki Saito
+  - "Shin\u2010ichiro Kitajiri"
+  publisher: EMBO Molecular Medicine
+  date: '2016-10-05'
+  link: https://doi.org/f3r5cq
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5631/jibirin.108.375
+  title: Two Cases of Spindle Cell Carcinoma of the Head and Neck
+  authors:
+  - Chiaki Suzuki
+  - Satoshi Ohno
+  - Shinji Takebayashi
+  - Akiyoshi Yasumoto
+  - Saki Yabuuchi
+  - Takushi Miyoshi
+  - Kumiko Gyo
+  - Hiroki Ikeda
+  - Ryo Asato
+  - Makoto Miura
+  publisher: Practica Oto-Rhino-Laryngologica
+  date: '2015-01-01'
+  link: https://doi.org/gtrp6d
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2202-15-66
+  title: Therapeutic potential of a gamma-secretase inhibitor for hearing restoration
+    in a guinea pig model with noise-induced hearing loss
+  authors:
+  - Yosuke Tona
+  - Kiyomi Hamaguchi
+  - Masaaki Ishikawa
+  - Takushi Miyoshi
+  - Norio Yamamoto
+  - Kohei Yamahara
+  - Juichi Ito
+  - Takayuki Nakagawa
+  publisher: BMC Neuroscience
+  date: '2014-05-22'
+  link: https://doi.org/f59rqd
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cm.21098
+  title: "Can filament treadmilling alone account for the F\u2010actin turnover in\
+    \ lamellipodia?"
+  authors:
+  - Takushi Miyoshi
+  - Naoki Watanabe
+  publisher: Cytoskeleton
+  date: '2013-03-05'
+  link: https://doi.org/f4skch
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5631/jibirin.106.161
+  title: Hashimoto^|^rsquo;s Thyroiditis Affect the Outcome of Fine Needle Aspiration
+    Biopsy
+  authors:
+  - Shinji Takebayashi
+  - Takushi Miyoshi
+  - Chiaki Suzuki
+  - Nao Hiwatashi
+  - Hiroki Ikeda
+  - Makoto Miura
+  publisher: Practica Oto-Rhino-Laryngologica
+  date: '2013-01-01'
+  link: https://doi.org/gtrp6f
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5631/jibirin.105.431
+  title: A Case of Intraosseous Cavernous Hemangioma of the Maxillary Bone
+  authors:
+  - Akiko Nishida
+  - Hideyuki Fukushima
+  - Takushi Miyoshi
+  - Toshiki Maetani
+  - Rie Kanai
+  - Fumiko Kuboshima
+  - Misaki Yamamoto
+  - Takuya Tsuji
+  - Shin-ichi Kanemaru
+  publisher: Practica Oto-Rhino-Laryngologica
+  date: '2012-01-01'
+  link: https://doi.org/gtrp6g
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1159/000328977
+  title: Early-Onset Postirradiation Sarcoma of the Tongue after Pseudotumor Phase
+  authors:
+  - Takushi Miyoshi
+  - Shinji Takebayashi
+  - Chiaki Suzuki
+  - Nao Hiwatashi
+  - Hiroki Ikeda
+  - Kazuo Ono
+  - Makoto Miura
+  publisher: ORL
+  date: '2011-01-01'
+  link: https://doi.org/fs2wc4
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5631/jibirin.103.209
+  title: Breast Carcinoma Metastasis to the Temporal Bone
+  authors:
+  - Koji Miyata
+  - Hideyuki Fukushima
+  - Toshiki Maetani
+  - Akiko Nishida
+  - Nobuya Fujiki
+  - Nobumitsu Honda
+  - Tsunemichi Adachi
+  - Mika Tsujimura
+  - Takushi Miyoshi
+  publisher: Practica Oto-Rhino-Laryngologica
+  date: '2010-01-01'
+  link: https://doi.org/bjbk73
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0004921
+  title: An Order of Magnitude Faster AIP1-Associated Actin Disruption than Nucleation
+    by the Arp2/3 Complex in Lamellipodia
+  authors:
+  - Takahiro Tsuji
+  - Takushi Miyoshi
+  - Chiharu Higashida
+  - Shuh Narumiya
+  - Naoki Watanabe
+  publisher: PLoS ONE
+  date: '2009-03-17'
+  link: https://doi.org/bpt5nd
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5631/jibirin.102.673
+  title: Metastasis of Retroperitoneal Leiomyosarcoma to the Thyroid and Parotid Glands
+  authors:
+  - Koji Miyata
+  - Hideyuki Fukushima
+  - Nobuya Fujiki
+  - Nobumitsu Honda
+  - Toshiki Maetani
+  - Akiko Nishida
+  - Yoshiharu Kitani
+  - Tsunemichi Adachi
+  - Mika Tsujimura
+  - Takushi Miyoshi
+  publisher: Practica Oto-Rhino-Laryngologica
+  date: '2009-01-01'
+  link: https://doi.org/bnkgd2
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1083/jcb.200604176
+  title: "Actin turnover\u2013dependent fast dissociation of capping protein in the\
+    \ dendritic nucleation actin network: evidence of frequent filament severing"
+  authors:
+  - Takushi Miyoshi
+  - Takahiro Tsuji
+  - Chiharu Higashida
+  - Maud Hertzog
+  - Akiko Fujita
+  - Shuh Narumiya
+  - Giorgio Scita
+  - Naoki Watanabe
+  publisher: The Journal of Cell Biology
+  date: '2006-12-18'
+  link: https://doi.org/c7cwq7
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.1093923
+  title: Actin Polymerization-Driven Molecular Movement of mDia1 in Living Cells
+  authors:
+  - Chiharu Higashida
+  - Takushi Miyoshi
+  - Akiko Fujita
+  - Fabian Oceguera-Yanez
+  - James Monypenny
+  - Yoshikazu Andou
+  - Shuh Narumiya
+  - Naoki Watanabe
+  publisher: Science
+  date: '2004-03-26'
+  link: https://doi.org/b43np3
+  orcid: 0000-0001-5236-0807
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +390,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +406,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
