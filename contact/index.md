@@ -32,7 +32,7 @@ Our laboratory is a part of Division of Molecular and Integrative Physiology, De
   include figure.html
   image="images/SIU_logos/SIU_Logo_Horz.png"
   width="200px"
-  link="https://siumed.edu/"
+#  link="https://siumed.edu/"
 %}
 
 {% include section.html %}
