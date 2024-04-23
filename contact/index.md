@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our laboratory is a part of Division of Molecular and Integrative Physiology, Department of Biomedicine, Southern Illinois University (SIU) School of Medicine in Carbondale, IL and located in the second floor of Life Science III building.
+Our laboratory is a part of Division of Molecular and Integrative Physiology, Department of Biomedicine, Southern Illinois University (SIU) School of Medicine and located in the second floor of Life Science III building in Carbondale, IL.
 
 {%
   include button.html
@@ -32,6 +32,7 @@ Our laboratory is a part of Division of Molecular and Integrative Physiology, De
   include figure.html
   image="images/SIU_logos/SIU_Logo_Horz.png"
   width="200px"
+  link="https"//siumed.edu/"
 %}
 
 {% include section.html %}
