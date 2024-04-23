@@ -27,8 +27,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
+  image="images/top/stereocilia.png"
   title="Our Research"
   text=text
 %}
@@ -49,7 +48,7 @@
 {%
   include feature.html
   image="images/top/member_photo.jpg"
-  link="members"
   title="Lab members"
+  flip=true
   text=text
 %}
