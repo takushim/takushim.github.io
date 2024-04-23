@@ -5,10 +5,9 @@ nav:
   tooltip: Articles and Reviews
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+[Complete list](https://www.ncbi.nlm.nih.gov/myncbi/takushi.miyoshi.1/bibliography/public/)
 
 {% include section.html %}
 
