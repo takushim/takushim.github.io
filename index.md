@@ -3,10 +3,6 @@
 
 # Decipher the Molecular Mechanism for Mechanosensing
 
-{% include section.html %}
-
-## Highlights
-
 {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
