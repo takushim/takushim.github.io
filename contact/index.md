@@ -32,7 +32,7 @@ Our laboratory is a part of Division of Molecular and Integrative Physiology, De
 {% capture col1 %}
 {%
   include figure.html
-  image="images/contact/SIU_logos/SIU_Horiz_209.jpg"
+  image="images/contact/SIU_logos/SIU_Horiz_209.png"
   width="400px"
 %}
 {% endcapture %}
