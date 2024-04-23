@@ -1,6 +1,6 @@
 ---
 name: Mrudhula Sajeevadathan
-image: images/photo.jpg
+image: images/members/Mrudhula.jpg
 role: postdoc
 aliases:
   - M. Sajeevadathan

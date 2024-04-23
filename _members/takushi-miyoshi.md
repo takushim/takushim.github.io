@@ -1,6 +1,6 @@
 ---
 name: Takushi Miyoshi
-image: images/photo.jpg
+image: images/members/Takushi.jpg
 role: pi
 aliases:
   - T. Miyoshi
