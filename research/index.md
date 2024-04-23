@@ -13,3 +13,22 @@ My research carrier initially focused on the dynamic regulation of actin cytoske
 
 At SIU, I am utilizing my single-molecule microscopy technique to visualize trafficking of MYO7A, which are essential for localizing the mechanotransduction complex at stereocilia tips. I am also expanding the imaging target to other unconventional myosins whose variants are associated with human hearing loss and to actin and regulatory proteins, which are replenished maintaining the entire architecture of stereocilia. My single-molecule microscopy will be a novel tool for analyzing the normal and aberrant behavior of proteins in stereocilia, improving the efficacy and reliability of genetic diagnoses based on experimental data and formulating therapeutic strategies for sensorineural hearing loss. In addition, approaches developed in my study will be generally useful outside the field of hearing research to analyze the pathophysiology of mutant human genes affecting other organ systems.
 
+<!--
+# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+
+{% include tags.html tags="publication, resource, website" %}
+
+{% include search-info.html %}
+
+{% include section.html %}
+
+## Featured
+
+{% include list.html component="card" data="projects" filters="group: featured" %}
+
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
+-->

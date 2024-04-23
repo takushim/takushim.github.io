@@ -1,5 +1,5 @@
 ---
-name: Mrudhula Sajeevadathan
+name: Mrudhula Sajeevadathan, PhD
 image: images/members/Mrudhula.jpg
 role: postdoc
 aliases:
