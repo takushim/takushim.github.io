@@ -29,57 +29,42 @@ Our laboratory is a part of Division of Molecular and Integrative Physiology, De
 %}
 
 {% include section.html %}
-
 {% capture col1 %}
-
 {%
   include figure.html
   image="images/contact/SIU_logos/SIU_Horz_209.jpg"
   caption=""
 %}
-
 {% endcapture %}
-
 {% capture col2 %}
-
 {%
   include figure.html
   image="images/SIU_logos/SIU-Logo-RGB.png"
   caption=""
 %}
-
 {% endcapture %}
-
 {% include cols.html col1=col1 col2=col2%}
 
 {% include section.html %}
-
 {% capture col1 %}
-
 {%
   include figure.html
   image="images/contact/SIU_Campus_Lake.jpg"
   caption="Campus Lake (photo by Devout1145)"
 %}
-
 {% endcapture %}
-
 {% capture col2 %}
-
 {%
   include figure.html
   image="images/contact/Pulliam_Hall.jpg"
   caption="Pulliam Hall (photo by Veeresh dandur)"
 %}
-
+{% endcapture %}
 {% capture col3 %}
-
 {%
   include figure.html
   image="images/contact/Life_Science_III.jpg"
   caption="Lab location (photo by TM)"
 %}
-
 {% endcapture %}
-
 {% include cols.html col1=col1 col2=col2 col3=col3%}
