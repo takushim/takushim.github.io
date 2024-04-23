@@ -1,5 +1,5 @@
 ---
-name: Takushi Miyoshi
+name: Takushi Miyoshi, MD, PhD
 image: images/members/Takushi.jpg
 role: pi
 aliases:
@@ -10,10 +10,4 @@ links:
   github: takushim
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Takushi Miyoshi is an otolaryngologist in Japan. After working as a post-doc in the Friedman lab at NIDCD/NIH since 2018, he started his own laboratory at SIU in 2024.

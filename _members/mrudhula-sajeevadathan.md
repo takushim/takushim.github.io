@@ -9,4 +9,4 @@ links:
   github: mrudhulasajeevadathan
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Mrudhula Sajeevadathan majored Veterinary Science and Animal Husbandary in Kerala Agricultural University and obtained Masters degree in Veterinary Science in Animal and Fisheries Sciences University in India. Mrudhula obtained PhD in Animal Science at University of Sasjatchwan in Canada in 2018. Mrudhula is working in the Miyoshi lab since 2024.
