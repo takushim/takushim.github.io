@@ -28,7 +28,6 @@ Our laboratory is a part of Division of Molecular and Integrative Physiology, De
   link="https://maps.app.goo.gl/G2LpiBGfXgFx3aFp8"
 %}
 
-{% capture SIU_logos %}
 {%
   include figure.html
   image="images/SIU_logos/SIU_Horiz_209.png"
@@ -36,14 +35,8 @@ Our laboratory is a part of Division of Molecular and Integrative Physiology, De
 %}
 {%
   include figure.html
-  image="images/SIU_logos/SIU-Logo-RGB.png"
+  image="images/SIU_logos/SIU_Logo_Horz.png"
   width="200px"
-%}
-{% endcapture %}
-{%
-  include grid.html
-  content=SIU_logos
-  style="regular"
 %}
 
 {% include section.html %}
