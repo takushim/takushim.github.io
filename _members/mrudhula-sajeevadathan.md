@@ -1,11 +1,12 @@
 ---
-name: Sarah Johnson
+name: Mrudhula Sajeevadathan
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+role: postdoc
+aliases:
+  - M. Sajeevadathan
+  - M Sajeevadathan
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  github: mrudhulasajeevadathan
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
