@@ -47,7 +47,7 @@
 
 {%
   include feature.html
-  image="images/top/member_photo.jpg"
+  image="images/photo.jpg"
   title="Lab members"
   flip=true
   text=text
