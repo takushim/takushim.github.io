@@ -64,7 +64,7 @@ Our laboratory is a part of Division of Molecular and Integrative Physiology, De
 {%
   include figure.html
   image="images/contact/Life_Science_III.jpg"
-  caption="Lab location (photo by TM)"
+  caption="Lab location (photo by Takushi Miyoshi)"
 %}
 {% endcapture %}
 {% include cols.html col1=col1 col2=col2 col3=col3%}
