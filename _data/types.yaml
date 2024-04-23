@@ -19,7 +19,7 @@ undergrad:
   description: Undergraduate Student
 
 technician:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-flask
   description: Technician
 
 mascot:
