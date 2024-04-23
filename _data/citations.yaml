@@ -11,8 +11,8 @@
   date: '2024-03-18'
   link: https://doi.org/gtrp57
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00439-021-02304-0
   title: Human deafness-associated variants alter the dynamics of key molecules in
     hair cell stereocilia F-actin cores
@@ -32,11 +32,11 @@
   date: '2021-07-07'
   link: https://doi.org/gtrp58
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/cge.14115
-  title: "Late\u2010onset hearing loss case associated with a heterozygous truncating\
-    \ variant of <scp><i>DIAPH1</i></scp>"
+  title: Late-onset hearing loss case associated with a heterozygous truncating variant
+    of <scp><i>DIAPH1</i></scp>
   authors:
   - Bong Jik Kim
   - Takushi Miyoshi
@@ -48,8 +48,8 @@
   date: '2022-02-02'
   link: https://doi.org/gtrp59
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.xpro.2021.100967
   title: Fast-dissociating but highly specific antibodies are novel tools in biology,
     especially useful for multiplex super-resolution microscopy
@@ -61,8 +61,8 @@
   date: '2021-12-01'
   link: https://doi.org/gtrp6b
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.celrep.2021.108708
   title: Semi-automated single-molecule microscopy screening of fast-dissociating
     specific antibodies directly from hybridoma cultures
@@ -85,8 +85,8 @@
   date: '2021-02-01'
   link: https://doi.org/gpk5zs
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1136/jmedgenet-2019-106282
   title: Differential disruption of autoinhibition and defect in assembly of cytoskeleton
     during cell division decide the fate of human<i>DIAPH1</i>-related cytoskeletopathy
@@ -112,8 +112,8 @@
   date: '2019-08-31'
   link: https://doi.org/gtrp6c
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/hmg/ddy445
   title: The phenotypic landscape of a Tbc1d24 mutant mouse includes convulsive seizures
     resembling human early infantile epileptic encephalopathy
@@ -143,8 +143,8 @@
   date: '2019-01-02'
   link: https://doi.org/ghnxpq
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s10162-016-0607-3
   title: Quantitative Analysis of Aquaporin Expression Levels during the Development
     and Maturation of the Inner Ear
@@ -164,12 +164,11 @@
   date: '2016-12-21'
   link: https://doi.org/f94qkc
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.15252/emmm.201606609
-  title: "Constitutive activation of\n            <scp>DIA</scp>\n            1 (\n\
-    \            <scp>DIAPH</scp>\n            1) via C\u2010terminal truncation causes\
-    \ human sensorineural hearing loss"
+  title: Constitutive activation of DIA1 (DIAPH1) via C-terminal truncation causes
+    human sensorineural hearing loss
   authors:
   - Takehiko Ueyama
   - Yuzuru Ninoyu
@@ -189,8 +188,8 @@
   date: '2016-10-05'
   link: https://doi.org/f3r5cq
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.5631/jibirin.108.375
   title: Two Cases of Spindle Cell Carcinoma of the Head and Neck
   authors:
@@ -208,8 +207,8 @@
   date: '2015-01-01'
   link: https://doi.org/gtrp6d
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/1471-2202-15-66
   title: Therapeutic potential of a gamma-secretase inhibitor for hearing restoration
     in a guinea pig model with noise-induced hearing loss
@@ -226,11 +225,10 @@
   date: '2014-05-22'
   link: https://doi.org/f59rqd
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/cm.21098
-  title: "Can filament treadmilling alone account for the F\u2010actin turnover in\
-    \ lamellipodia?"
+  title: Can filament treadmilling alone account for the F-actin turnover in lamellipodia?
   authors:
   - Takushi Miyoshi
   - Naoki Watanabe
@@ -238,8 +236,8 @@
   date: '2013-03-05'
   link: https://doi.org/f4skch
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.5631/jibirin.106.161
   title: Hashimoto^|^rsquo;s Thyroiditis Affect the Outcome of Fine Needle Aspiration
     Biopsy
@@ -254,8 +252,8 @@
   date: '2013-01-01'
   link: https://doi.org/gtrp6f
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.5631/jibirin.105.431
   title: A Case of Intraosseous Cavernous Hemangioma of the Maxillary Bone
   authors:
@@ -272,8 +270,8 @@
   date: '2012-01-01'
   link: https://doi.org/gtrp6g
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1159/000328977
   title: Early-Onset Postirradiation Sarcoma of the Tongue after Pseudotumor Phase
   authors:
@@ -288,8 +286,8 @@
   date: '2011-01-01'
   link: https://doi.org/fs2wc4
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.5631/jibirin.103.209
   title: Breast Carcinoma Metastasis to the Temporal Bone
   authors:
@@ -306,8 +304,8 @@
   date: '2010-01-01'
   link: https://doi.org/bjbk73
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pone.0004921
   title: An Order of Magnitude Faster AIP1-Associated Actin Disruption than Nucleation
     by the Arp2/3 Complex in Lamellipodia
@@ -321,8 +319,8 @@
   date: '2009-03-17'
   link: https://doi.org/bpt5nd
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.5631/jibirin.102.673
   title: Metastasis of Retroperitoneal Leiomyosarcoma to the Thyroid and Parotid Glands
   authors:
@@ -340,11 +338,11 @@
   date: '2009-01-01'
   link: https://doi.org/bnkgd2
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1083/jcb.200604176
-  title: "Actin turnover\u2013dependent fast dissociation of capping protein in the\
-    \ dendritic nucleation actin network: evidence of frequent filament severing"
+  title: 'Actin turnover-dependent fast dissociation of capping protein in the dendritic
+    nucleation actin network: evidence of frequent filament severing'
   authors:
   - Takushi Miyoshi
   - Takahiro Tsuji
@@ -358,8 +356,8 @@
   date: '2006-12-18'
   link: https://doi.org/c7cwq7
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1126/science.1093923
   title: Actin Polymerization-Driven Molecular Movement of mDia1 in Living Cells
   authors:
@@ -375,5 +373,5 @@
   date: '2004-03-26'
   link: https://doi.org/b43np3
   orcid: 0000-0001-5236-0807
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
