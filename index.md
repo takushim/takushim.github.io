@@ -8,7 +8,7 @@
 {%
   include button.html
   link="research"
-  text="Brows our research peojects"
+  text="Research interest"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -17,7 +17,7 @@
 {%
   include button.html
   link="publications"
-  text="Browse our publications"
+  text="Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
