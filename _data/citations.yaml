@@ -1,5 +1,45 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.21203/rs.3.rs-4369958/v1
+  title: Live-cell single-molecule fluorescence microscopy for protruding organelles
+    reveals regulatory mechanisms of MYO7A-driven cargo transport in stereocilia of
+    inner ear hair cells
+  authors:
+  - Takushi Miyoshi
+  - Harshad Vishwasrao
+  - Inna Belyantseva
+  - Mrudhula Sajeevadathan
+  - Yasuko Ishibashi
+  - Samuel Adadey
+  - Narinobu Harada
+  - Hari Shroff
+  - Thomas Friedman
+  publisher: Research Square Platform LLC
+  date: '2024-05-21'
+  link: https://doi.org/gtwmb5
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.05.04.590649
+  title: Live-cell single-molecule fluorescence microscopy for protruding organelles
+    reveals regulatory mechanisms of MYO7A-driven cargo transport in stereocilia of
+    inner ear hair cells
+  authors:
+  - Takushi Miyoshi
+  - Harshad D. Vishwasrao
+  - Inna A. Belyantseva
+  - Mrudhula Sajeevadathan
+  - Yasuko Ishibashi
+  - Samuel M. Adadey
+  - Narinobu Harada
+  - Hari Shroff
+  - Thomas B. Friedman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-05-07'
+  link: https://doi.org/gtt3rv
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3389/fphys.2024.1374901
   title: Pathophysiology of human hearing loss associated with variants in myosins
   authors:
