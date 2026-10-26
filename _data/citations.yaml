@@ -1,5 +1,115 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-025-63102-0
+  title: Single-molecule fluorescence microscopy reveals regulatory mechanisms of
+    MYO7A-driven cargo transport in stereocilia of live inner ear hair cells
+  authors:
+  - Takushi Miyoshi
+  - Harshad D. Vishwasrao
+  - Inna A. Belyantseva
+  - Junko Miyoshi
+  - Mrudhula Sajeevadathan
+  - Yasuko Ishibashi
+  - Samuel M. Adadey
+  - Narinobu Harada
+  - Hari Shroff
+  - Thomas B. Friedman
+  publisher: Nature Communications
+  date: '2025-09-01'
+  link: https://doi.org/g92twf
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1083/jcb.202408026
+  title: Taperin bundles F-actin at stereocilia pivot points enabling optimal lifelong
+    mechanosensitivity
+  authors:
+  - Inna A. Belyantseva
+  - Chang Liu
+  - Abigail K. Dragich
+  - Takushi Miyoshi
+  - Sayaka Inagaki
+  - Ayesha Imtiaz
+  - Risa Tona
+  - Karen Sofia Zuluaga-Osorio
+  - Shadan Hadi
+  - Elizabeth Wilson
+  - Eva Morozko
+  - Rafal Olszewski
+  - Rizwan Yousaf
+  - Yuliya Sokolova
+  - Gavin P. Riordan
+  - S. Andrew Aston
+  - Atteeq U. Rehman
+  - Cristina Fenollar Ferrer
+  - Jan Wisniewski
+  - Shoujun Gu
+  - Gowri Nayak
+  - Richard J. Goodyear
+  - Jinan Li
+  - Jocelyn F. Krey
+  - Talah Wafa
+  - Rabia Faridi
+  - Samuel Mawuli Adadey
+  - Meghan Drummond
+  - Benjamin Perrin
+  - Dennis C. Winkler
+  - Matthew F. Starost
+  - Hui Cheng
+  - Tracy Fitzgerald
+  - Guy P. Richardson
+  - Lijin Dong
+  - Peter G. Barr-Gillespie
+  - Michael Hoa
+  - Gregory I. Frolenkov
+  - Thomas B. Friedman
+  - Bo Zhao
+  publisher: Journal of Cell Biology
+  date: '2025-06-05'
+  link: https://doi.org/g9h5kc
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-4369958/v1
+  title: Live-cell single-molecule fluorescence microscopy for protruding organelles
+    reveals regulatory mechanisms of MYO7A-driven cargo transport in stereocilia of
+    inner ear hair cells
+  authors:
+  - Takushi Miyoshi
+  - Harshad Vishwasrao
+  - Inna Belyantseva
+  - Mrudhula Sajeevadathan
+  - Yasuko Ishibashi
+  - Samuel Adadey
+  - Narinobu Harada
+  - Hari Shroff
+  - Thomas Friedman
+  publisher: Springer Science and Business Media LLC
+  date: '2024-05-21'
+  link: https://doi.org/gtwmb5
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.05.04.590649
+  title: Live-cell single-molecule fluorescence microscopy for protruding organelles
+    reveals regulatory mechanisms of MYO7A-driven cargo transport in stereocilia of
+    inner ear hair cells
+  authors:
+  - Takushi Miyoshi
+  - Harshad D. Vishwasrao
+  - Inna A. Belyantseva
+  - Mrudhula Sajeevadathan
+  - Yasuko Ishibashi
+  - Samuel M. Adadey
+  - Narinobu Harada
+  - Hari Shroff
+  - Thomas B. Friedman
+  publisher: openRxiv
+  date: '2024-05-07'
+  link: https://doi.org/gtt3rv
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3389/fphys.2024.1374901
   title: Pathophysiology of human hearing loss associated with variants in myosins
   authors:
@@ -340,6 +450,15 @@
   orcid: 0000-0001-5236-0807
   plugin: sources.py
   file: sources.yaml
+- id: wosuid:WOS:000207130700481
+  title: Actin Dynamics-dependent Fast Actin Uncapping in Dendritic Nucleation Network
+  authors: []
+  publisher: Molecular Biology of the Cell
+  date: '2026-02-05'
+  link: https://publons.com/wos-op/publon/64144046/
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1083/jcb.200604176
   title: 'Actin turnover-dependent fast dissociation of capping protein in the dendritic
     nucleation actin network: evidence of frequent filament severing'
@@ -358,6 +477,15 @@
   orcid: 0000-0001-5236-0807
   plugin: sources.py
   file: sources.yaml
+- id: wosuid:WOS:000202995600028
+  title: Evidence of constitutive actin filament severing in lamellipodia
+  authors: []
+  publisher: Cell Structure and Function
+  date: '2026-02-05'
+  link: https://publons.com/wos-op/publon/76349489/
+  orcid: 0000-0001-5236-0807
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/science.1093923
   title: Actin Polymerization-Driven Molecular Movement of mDia1 in Living Cells
   authors:
